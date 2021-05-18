@@ -9,4 +9,4 @@ __🪐 Dev. İd'yi ``ayarlar.json``'a koyarak çalıştırabilirsiniz...__
 
 Hazırlanması basit ama yapamayan arkadaşlarımız kullanabilir:)<3
 
-*glitchde kullanacaksanız tokeninizi saklamak için ``bot.js``'deki ```client.login(ayarlar.token)``` olan satırı ```client.login(process.env.token)``` yapması şiddetle tavsiye edilir🏓*
+*glitchde kullanacaksanız tokeninizi saklamak için ``bot.js``'deki ```client.login(ayarlar.token)``` olan satırı ```client.login(process.env.token)``` yapmanız şiddetle tavsiye edilir🏓*
